@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>00576436-ACD8-4A35-B930-6C4CAAC50B4D</string>
+	<key>IDESourceControlProjectName</key>
+	<string>flick_finder_JC</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>200F5FD906169048E8EA32876F1E280AC806B542</key>
+		<string>https://github.com/johnceniza/flick_finder_UdacityL3.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>flick_finder_JC.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>200F5FD906169048E8EA32876F1E280AC806B542</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/johnceniza/flick_finder_UdacityL3.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>200F5FD906169048E8EA32876F1E280AC806B542</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>200F5FD906169048E8EA32876F1E280AC806B542</string>
+			<key>IDESourceControlWCCName</key>
+			<string>flick_finder_JC</string>
+		</dict>
+	</array>
+</dict>
+</plist>

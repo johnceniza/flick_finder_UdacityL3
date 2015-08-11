@@ -409,6 +409,7 @@
 				6DC3C0B31B7AA5C5004217E2 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		6DC3C0B41B7AA5C5004217E2 /* Build configuration list for PBXNativeTarget "flick_finder_JCTests" */ = {
 			isa = XCConfigurationList;
@@ -417,6 +418,7 @@
 				6DC3C0B61B7AA5C5004217E2 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
